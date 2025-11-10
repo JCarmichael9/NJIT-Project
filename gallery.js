@@ -1,7 +1,7 @@
 let mCurrentIndex = 0 // Tracks the current image index
 let mImages = [] // Array to hold GalleryImage objects
 const mUrl = 'images.json' // Replace with actual JSON URL
-const mWaitTime = 5000 // Timer interval in milliseconds
+let mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
   $('.details').hide()
@@ -47,6 +47,7 @@ function swapPhoto() {
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
 function showNextPhoto() {
+
   mCurrentIndex++;
   if (mCurrentIndex >= mImages.length) {
     mCurrentIndex = 0
