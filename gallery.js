@@ -4,19 +4,20 @@ const mUrl = 'https://your-json-url.com' // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
-  $('.details').hide() // Hide details initially
+  $('.details').hide() 
+startTimer();
+$('.moreIndicator').click(() => {
+  $('.moreIndicator').toggleClass('rot90 rot270')
+  $('.details').slideToggle()
+})
+ 
+$('#nextPhoto').click(() => {
+  showNextPhoto();
+})
+$('#prevPhoto').click(() => {
+  showPrevPhoto();
+})
 
-  // Call a function here to start the timer for the slideshow
-
-  // Select the moreIndicator button and add a click event to:
-  // - toggle the rotation classes (rot90 and rot270)
-  // - slideToggle the visibility of the .details section
-
-  // Select the "Next Photo" button and add a click event to call showNextPhoto
-
-  // Select the "Previous Photo" button and add a click event to call showPrevPhoto
-
-  // Call fetchJSON() to load the initial set of images
   fetchJSON()
 })
 
