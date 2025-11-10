@@ -28,6 +28,9 @@ function fetchJSON () {
   success: function (data) {
     mImages = data.images;
     swapPhoto()
+  }, 
+  error: function (xhr, status, error) {
+    console.error("Failed to load")
   }
  })
 }
@@ -60,7 +63,7 @@ function showPrevPhoto () {
 }
 
 let mTimer;
-
+// timer after 5 seconds chnages to next one
 function startTimer () {
  if (mTimer) {
   clearInterval(mTimer);
