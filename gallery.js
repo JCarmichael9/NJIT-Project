@@ -17,6 +17,13 @@ $(document).ready(() => {
   $('#prevPhoto').click(() => {
     showPrevPhoto();
   })
+  $(document).keydown((event) => {
+    if (event.key === 'ArrowRight') {
+      showNextPhoto();
+    } else if (event.key === 'ArrowLeft') {
+      showPrevPhoto();
+    }
+  });
 
   fetchJSON()
 })
