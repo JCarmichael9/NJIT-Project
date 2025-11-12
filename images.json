@@ -3,122 +3,146 @@
     {
       "imgPath": "img/places/obi.png",
       "imgLocation": "Obi-Wan",
-      "imgDescription": "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader."
+      "imgDescription": "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader.",
+      "imgDate": "Stewjon"
     },
     {
       "imgPath": "img/places/anakin.png",
       "imgLocation": "Anakin",
-      "imgDescription": "Anakin Skywalker is a Dark Side Sith Lord formerly a Jedi, destined to become Darth vader."
+      "imgDescription": "Anakin Skywalker is a Dark Side Sith Lord formerly a Jedi, destined to become Darth vader.",
+      "imgDate": "Tatooine"
     },
     {
       "imgPath": "img/places/padme.png",
       "imgLocation": "Padme",
-      "imgDescription": "Padmé Amidala is a Light Side senator and former queen fighting for peace."
+      "imgDescription": "Padmé Amidala is a Light Side senator and former queen fighting for peace.",
+      "imgDate": "Naboo"
     },
     {
       "imgPath": "img/places/yoda.png",
       "imgLocation": "Yoda",
-      "imgDescription": "Yoda is a wise Light Side Jedi Master and leader of the Jedi Council."
+      "imgDescription": "Yoda is a wise Light Side Jedi Master and leader of the Jedi Council.",
+      "imgDate": "Unknown (Yoda’s species homeworld)"
     },
     {
       "imgPath": "img/places/vader.jpg",
       "imgLocation": "Darth",
-      "imgDescription": "Darth vader is a Dark Side Sith Lord and enforcer of the Emperor’s will."
+      "imgDescription": "Darth vader is a Dark Side Sith Lord and enforcer of the Emperor’s will.",
+      "imgDate": "Tatooine"
     },
     {
       "imgPath": "img/places/mace.png",
       "imgLocation": "Mace",
-      "imgDescription": "Mace Windu is a powerful Light Side Jedi Master known for his purple lightsaber."
+      "imgDescription": "Mace Windu is a powerful Light Side Jedi Master known for his purple lightsaber.",
+      "imgDate": "Haruun Kal"
     },
     {
       "imgPath": "img/places/dooku.png",
       "imgLocation": "Count",
-      "imgDescription": "Count Dooku is a Dark Side Sith Lord and former Jedi who leads the Separatists."
+      "imgDescription": "Count Dooku is a Dark Side Sith Lord and former Jedi who leads the Separatists.",
+      "imgDate": "Serenno"
     },
     {
       "imgPath": "img/places/qui.png",
       "imgLocation": "Qui-Gon",
-      "imgDescription": "Qui-Gon Jinn was a Light Side Jedi who discovered Anakin on Tatooine."
+      "imgDescription": "Qui-Gon Jinn was a Light Side Jedi who discovered Anakin on Tatooine.",
+      "imgDate": "Coruscant"
     },
     {
       "imgPath": "img/places/palp.png",
       "imgLocation": "Palpatine",
-      "imgDescription": "Palpatine is a Dark Side Sith Lord and manipulative Emperor of the galaxy."
+      "imgDescription": "Palpatine is a Dark Side Sith Lord and manipulative Emperor of the galaxy.",
+      "imgDate": "Naboo"
     },
     {
       "imgPath": "img/places/leia.png",
       "imgLocation": "Leia",
-      "imgDescription": "Leia Organa is a Light Side Rebel leader, princess, and sister to Luke Skywalker."
+      "imgDescription": "Leia Organa is a Light Side Rebel leader, princess, and sister to Luke Skywalker.",
+      "imgDate": "Polis Massa"
     },
     {
       "imgPath": "img/places/solo.png",
       "imgLocation": "Han",
-      "imgDescription": "Han Solo is a Light Side Rebel pilot who helped defeat the Empire."
+      "imgDescription": "Han Solo is a Light Side Rebel pilot who helped defeat the Empire.",
+      "imgDate": "Corellia"
     },
     {
       "imgPath": "img/places/chewy.png",
       "imgLocation": "Chewbacca",
-      "imgDescription": "Chewbacca is a loyal Light Side Wookiee warrior and Han Solo’s co-pilot."
+      "imgDescription": "Chewbacca is a loyal Light Side Wookiee warrior and Han Solo’s co-pilot.",
+      "imgDate": "Kashyyyk"
     },
     {
       "imgPath": "img/places/lando.png",
       "imgLocation": "Lando",
-      "imgDescription": "Lando Calrissian is a Light Side Rebel and skilled gambler turned hero."
+      "imgDescription": "Lando Calrissian is a Light Side Rebel and skilled gambler turned hero.",
+      "imgDate": "Socorro"
     },
     {
       "imgPath": "img/places/boba.png",
       "imgLocation": "Boba",
-      "imgDescription": "Boba Fett is the GREATEST character in the entire series on everything."
+      "imgDescription": "Boba Fett is the GREATEST character in the entire series on everything.",
+      "imgDate": "Kamino"
     },
     {
       "imgPath": "img/places/jango.png",
       "imgLocation": "Jango",
-      "imgDescription": "Jango Fett is a neutral bounty hunter and template for the clone army."
+      "imgDescription": "Jango Fett is a neutral bounty hunter and template for the clone army.",
+      "imgDate": "Concord Dawn"
     },
     {
       "imgPath": "img/places/maul.png",
       "imgLocation": "Darth",
-      "imgDescription": "Darth Maul is a Dark Side Sith apprentice with a double-bladed lightsaber."
+      "imgDescription": "Darth Maul is a Dark Side Sith apprentice with a double-bladed lightsaber.",
+      "imgDate": "Dathomir"
     },
     {
       "imgPath": "img/places/c3p0.png",
       "imgLocation": "C-3Po",
-      "imgDescription": "C-3P0 is a protocol droid fluent in over six million forms of communication."
+      "imgDescription": "C-3P0 is a protocol droid fluent in over six million forms of communication.",
+      "imgDate": "Tatooine"
     },
     {
       "imgPath": "img/places/r2d2.png",
       "imgLocation": "R2-D2",
-      "imgDescription": "R2-D2 is a resourceful astromech droid who often saves the heroes."
+      "imgDescription": "R2-D2 is a resourceful astromech droid who often saves the heroes.",
+      "imgDate": "Naboo"
     },
     {
       "imgPath": "img/places/jarjar.png",
       "imgLocation": "Jar-Jar",
-      "imgDescription": "Jar Jar Binks is a clumsy but well-meaning Gungan ally to the Jedi."
+      "imgDescription": "Jar Jar Binks is a clumsy but well-meaning Gungan ally to the Jedi.",
+      "imgDate": "Naboo"
     },
     {
       "imgPath": "img/places/grivieous.png",
       "imgLocation": "Grievous",
-      "imgDescription": "General Grievous is a Dark Side cyborg leading Separatist droid armies."
+      "imgDescription": "General Grievous is a Dark Side cyborg leading Separatist droid armies.",
+      "imgDate": "Kalee"
     },
     {
       "imgPath": "img/places/shaak.png",
       "imgLocation": "Shaak",
-      "imgDescription": "Shaak Ti is a wise Togruta Jedi Master who oversaw the training of clone troopers on Kamino."
+      "imgDescription": "Shaak Ti is a wise Togruta Jedi Master who oversaw the training of clone troopers on Kamino.",
+      "imgDate": "Shili"
     },
     {
       "imgPath": "img/places/rex.jpg",
       "imgLocation": "Rex",
-      "imgDescription": "Captain Rex is a loyal Light Side clone trooper leader under the Jedi."
+      "imgDescription": "Captain Rex is a loyal Light Side clone trooper leader under the Jedi.",
+      "imgDate": "Kamino"
     },
     {
       "imgPath": "img/places/b1.png",
       "imgLocation": "B1",
-      "imgDescription": "B1 Battle Droids are the clumsy yet iconic foot soldiers of the Separatist Droid Army."
+      "imgDescription": "B1 Battle Droids are the clumsy yet iconic foot soldiers of the Separatist Droid Army.",
+      "imgDate": "Geonosis"
     },
     {
       "imgPath": "img/places/watto.png",
       "imgLocation": "Watto",
-      "imgDescription": "Watto is a greedy Toydarian junk dealer who owned Anakin and his mother on Tatooine."
+      "imgDescription": "Watto is a greedy Toydarian junk dealer who owned Anakin and his mother on Tatooine.",
+      "imgDate": "Toydaria"
     }
   ]
 }
