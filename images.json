@@ -1,82 +1,124 @@
 {
-    "images": [
-        {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
-        },
-        {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
-        },
-        {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
-        },
-        {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
-        },
-        {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
-        },
-        {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
-        },
-        {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
-        },
-        {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
-        },
-        {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
-        },
-        {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
-        }
+  "images": [
+    {
+      "imgPath": "img/places/obi.png",
+      "imgLocation": "obi-Wan",
+      "imgDescription": "obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader."
+    },
+    {
+      "imgPath": "img/places/anakin.png",
+      "imgLocation": "Anakin",
+      "imgDescription": "Anakin Skywalker is a Dark Side Sith Lord formerly a Jedi, destined to become Darth vader."
+    },
+    {
+      "imgPath": "img/places/padme.png",
+      "imgLocation": "Padme",
+      "imgDescription": "Padmé Amidala is a Light Side senator and former queen fighting for peace."
+    },
+    {
+      "imgPath": "img/places/yoda.png",
+      "imgLocation": "Yoda",
+      "imgDescription": "Yoda is a wise Light Side Jedi Master and leader of the Jedi Council."
+    },
+    {
+      "imgPath": "img/places/vader.jpg",
+      "imgLocation": "Darth",
+      "imgDescription": "Darth vader is a Dark Side Sith Lord and enforcer of the Emperor’s will."
+    },
+    {
+      "imgPath": "img/places/mace.png",
+      "imgLocation": "Mace",
+      "imgDescription": "Mace Windu is a powerful Light Side Jedi Master known for his purple lightsaber."
+    },
+    {
+      "imgPath": "img/places/dooku.png",
+      "imgLocation": "Count",
+      "imgDescription": "Count Dooku is a Dark Side Sith Lord and former Jedi who leads the Separatists."
+    },
+    {
+      "imgPath": "img/places/qui.png",
+      "imgLocation": "Qui-Gon",
+      "imgDescription": "Qui-Gon Jinn was a Light Side Jedi who discovered Anakin on Tatooine."
+    },
+    {
+      "imgPath": "img/places/palp.png",
+      "imgLocation": "Palpatine",
+      "imgDescription": "Palpatine is a Dark Side Sith Lord and manipulative Emperor of the galaxy."
+    },
+    {
+      "imgPath": "img/places/leia.png",
+      "imgLocation": "Leia",
+      "imgDescription": "Leia Organa is a Light Side Rebel leader, princess, and sister to Luke Skywalker."
+    },
+    {
+      "imgPath": "img/places/solo.png",
+      "imgLocation": "Han",
+      "imgDescription": "Han Solo is a Light Side Rebel pilot who helped defeat the Empire."
+    },
+    {
+      "imgPath": "img/places/chewy.png",
+      "imgLocation": "Chewbacca",
+      "imgDescription": "Chewbacca is a loyal Light Side Wookiee warrior and Han Solo’s co-pilot."
+    },
+    {
+      "imgPath": "img/places/lando.png",
+      "imgLocation": "Lando",
+      "imgDescription": "Lando Calrissian is a Light Side Rebel and skilled gambler turned hero."
+    },
+    {
+      "imgPath": "img/places/boba.png",
+      "imgLocation": "Boba",
+      "imgDescription": "Boba Fett is the GREATEST character in the entire series on everything."
+    },
+    {
+      "imgPath": "img/places/jango.png",
+      "imgLocation": "Jango",
+      "imgDescription": "Jango Fett is a neutral bounty hunter and template for the clone army."
+    },
+    {
+      "imgPath": "img/places/maul.png",
+      "imgLocation": "Darth",
+      "imgDescription": "Darth Maul is a Dark Side Sith apprentice with a double-bladed lightsaber."
+    },
+    {
+      "imgPath": "img/places/c3p0.png",
+      "imgLocation": "C-3Po",
+      "imgDescription": "C-3P0 is a protocol droid fluent in over six million forms of communication."
+    },
+    {
+      "imgPath": "img/places/r2d2.png",
+      "imgLocation": "R2-D2",
+      "imgDescription": "R2-D2 is a resourceful astromech droid who often saves the heroes."
+    },
+    {
+      "imgPath": "img/places/jarjar.png",
+      "imgLocation": "Jar-Jar",
+      "imgDescription": "Jar Jar Binks is a clumsy but well-meaning Gungan ally to the Jedi."
+    },
+    {
+      "imgPath": "img/places/grivieous.png",
+      "imgLocation": "Grievous",
+      "imgDescription": "General Grievous is a Dark Side cyborg leading Separatist droid armies."
+    },
+    {
+      "imgPath": "img/places/shaak.png",
+      "imgLocation": "Shaak",
+      "imgDescription": "Shaak Ti is a wise Togruta Jedi Master who oversaw the training of clone troopers on Kamino."
+    },
+    {
+      "imgPath": "img/places/rex.jpg",
+      "imgLocation": "Rex",
+      "imgDescription": "Captain Rex is a loyal Light Side clone trooper leader under the Jedi."
+    },
+    {
+      "imgPath": "img/places/b1.png",
+      "imgLocation": "B1",
+      "imgDescription": "B1 Battle Droids are the clumsy yet iconic foot soldiers of the Separatist Droid Army."
+    },
+    {
+      "imgPath": "img/places/watto.png",
+      "imgLocation": "Watto",
+      "imgDescription": "Watto is a greedy Toydarian junk dealer who owned Anakin and his mother on Tatooine."
+    }
   ]
 }
