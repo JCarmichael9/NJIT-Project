@@ -25,12 +25,6 @@
       "imgDate": "Unknown (Yoda’s species homeworld)"
     },
     {
-      "imgPath": "img/places/vader.jpg",
-      "imgLocation": "Darth",
-      "imgDescription": "Darth vader is a Dark Side Sith Lord and enforcer of the Emperor’s will.",
-      "imgDate": "Tatooine"
-    },
-    {
       "imgPath": "img/places/mace.png",
       "imgLocation": "Mace",
       "imgDescription": "Mace Windu is a powerful Light Side Jedi Master known for his purple lightsaber.",
@@ -125,12 +119,6 @@
       "imgLocation": "Shaak",
       "imgDescription": "Shaak Ti is a wise Togruta Jedi Master who oversaw the training of clone troopers on Kamino.",
       "imgDate": "Shili"
-    },
-    {
-      "imgPath": "img/places/rex.jpg",
-      "imgLocation": "Rex",
-      "imgDescription": "Captain Rex is a loyal Light Side clone trooper leader under the Jedi.",
-      "imgDate": "Kamino"
     },
     {
       "imgPath": "img/places/b1.png",
