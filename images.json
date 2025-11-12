@@ -2,8 +2,8 @@
   "images": [
     {
       "imgPath": "img/places/obi.png",
-      "imgLocation": "obi-Wan",
-      "imgDescription": "obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader."
+      "imgLocation": "Obi-Wan",
+      "imgDescription": "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader."
     },
     {
       "imgPath": "img/places/anakin.png",
