@@ -24,7 +24,12 @@ $(document).ready(() => {
       showPrevPhoto();
     }
   });
-
+$(document).keydown((event) => {
+    if (event.key === ' ') {
+      $('.moreIndicator').toggleClass('rot90 rot270')
+    $('.details').slideToggle()
+    }
+  });
   fetchJSON()
 })
 
@@ -47,9 +52,9 @@ function fetchJSON() {
 function swapPhoto() {
   let currentImage = mImages[mCurrentIndex];
   $('#photo').attr('src', currentImage.imgPath);
-  $('.location').text(`Location: ${currentImage.imgLocation}`)
-  $('.description').text(`Description: ${currentImage.imgDescription}`)
-  $('.date').text(`Birth Planet: ${currentImage.imgDate}`)
+  $('.location').html(`<strong>Location</strong>: ${currentImage.imgLocation}`)
+  $('.description').html(`<strong>Description:</strong> ${currentImage.imgDescription}`)
+  $('.date').html(`<strong>Birth Planet:</strong> ${currentImage.imgDate}`)
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
