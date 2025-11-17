@@ -3,7 +3,7 @@
     {
       "imgPath": "img/places/obi.png",
       "imgLocation": "Obi-Wan",
-      "imgDescription": "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader.",
+      "imgDescription": "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin, before he turned to Darth Vader.",
       "imgDate": "Stewjon"
     },
     {
@@ -119,12 +119,6 @@
       "imgLocation": "Shaak",
       "imgDescription": "Shaak Ti is a wise Togruta Jedi Master who oversaw the training of clone troopers on Kamino.",
       "imgDate": "Shili"
-    },
-    {
-      "imgPath": "img/places/b1.png",
-      "imgLocation": "B1",
-      "imgDescription": "B1 Battle Droids are the clumsy yet iconic foot soldiers of the Separatist Droid Army.",
-      "imgDate": "Geonosis"
     },
     {
       "imgPath": "img/places/watto.png",
